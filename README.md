@@ -1,0 +1,3 @@
+- CI/CD Pipeline успешно реализован
+- Образ Docker опубликован в DockerHub: andrewkhetag/parcel-tracker
+- Все тесты пройдены
